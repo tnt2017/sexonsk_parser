@@ -1,0 +1,833 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124181/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124181_5c109e01ec230_r.jpeg" alt="Проститутка Александра  (23 лет, Новосибирск)" title="8 983 313-01-62" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;165&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;75&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;5&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;1000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;12000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Приглашу в гости приятного мужчину. Не салон, квартира под...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124181/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_123835"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/123835/"&gt;Женечка 100% фото&lt;/a&gt;&lt;br&gt;Новосибирск, Все районы&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 953 795-96-30&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/123835/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_123835_5c22359dec09a_r.jpg" alt="Проститутка Женечка 100% фото (19 лет, Новосибирск)" title="8 953 795-96-30" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;19&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;167&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;45&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;2000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;4000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;9999&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Страстные подружки ждут вас в гости!!! Могут приехать любой район города, а также сауны и гостиницы!!! Есть безналичный расчёт онлайн...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/123835/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_125279"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125279/"&gt;Екатерина&lt;/a&gt;&lt;br&gt;Новосибирск, Ленинский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 951 362-25-37&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125279/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_125279_5a1b752ba4da4_r.jpg" alt="Проститутка Екатерина (30 лет, Новосибирск)" title="8 951 362-25-37" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;30&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;168&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;50&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;20000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Ласковая, нежная, страстная...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/125279/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124723"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124723/"&gt;Настя&lt;/a&gt;&lt;br&gt;Новосибирск, Железнодорожный &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 913 009-35-32&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124723/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124723_5a1846c72b1cb_r.jpeg" alt="Проститутка Настя (21 лет, Новосибирск)" title="8 913 009-35-32" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;21&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;54&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3500&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;7000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Желанная и чувственная девушка, могу похвастаться своими превосходными внешними данными, готова скрасить одинокие серые будни изголодавшегося джентльмена. Строго индивидуальный подход...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124723/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124744"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124744/"&gt;Кира&lt;/a&gt;&lt;br&gt;Новосибирск, Советский &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-09-38&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124744/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124744_5a185b7634e01_r.jpeg" alt="Проститутка Кира (25 лет, Новосибирск)" title="8 965 822-09-38" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;25&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;175&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;62&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;5000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Я желанная, аппетитная, раскованная, сексапильная, опытная дама. Рядом со мной ты забудешь про все свои проблемы и невзгоды. Я помогу тебе расслабиться в уютной обстановке, удовлетворю твою похоть...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124744/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124732"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124732/"&gt;Катя&lt;/a&gt;&lt;br&gt;Новосибирск, Ленинский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 999 468-48-20&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124732/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124732_5a184faaac3c8_r.jpeg" alt="Проститутка Катя (21 лет, Новосибирск)" title="8 999 468-48-20" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;21&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;59&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;5000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Обаятельная леди, приглашаю к себе в гости!!! Очень люблю разнообразие в сексе, поэтому исполню все твои желания!!!Сексапильная, чувственная, грациозная, шикарная шатенка. 
+Губ моих дикий мед жарко...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124732/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124747"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124747/"&gt;Милослава Выез 24 часа&lt;/a&gt;&lt;br&gt;Новосибирск, Заельцовский &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 923 111-55-22&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124747/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124747_5a185d384d9ca_r.jpeg" alt="Проститутка Милослава Выез 24 часа (21 лет, Новосибирск)" title="8 923 111-55-22" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;21&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;167&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;57&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;30000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Веселая и страстная, помогу расслабиться и отдохнуть от повседневных забот и физической усталости. Раскованная и чувственная, настоящая женщина для настоящего...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124747/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124725"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124725/"&gt;Виктория&lt;/a&gt;&lt;br&gt;Новосибирск, Первомайский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 993 027-53-46&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124725/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124725_5a184a0d05a31_r.jpeg" alt="Проститутка Виктория (25 лет, Новосибирск)" title="8 993 027-53-46" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;25&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;173&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;60&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;5000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Симпатичная, чувственная, ухоженная, интересная девушка. Самые откровенные фантазии, чувственные ласки окунут в мир наслаждения, страсти и нежности...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124725/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_124748"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124748/"&gt;Римма Бердск&lt;/a&gt;&lt;br&gt;Новосибирск, Бердск&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 999 468-48-20&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/124748/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_124748_5a185f6a52c02_r.jpeg" alt="Проститутка Римма Бердск (25 лет, Новосибирск)" title="8 999 468-48-20" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;25&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;165&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;60&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;4000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;8000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Милая, добрая, ласковая как кошечка приглашает в гости, в тихую, уютную обстановку доброго и порядочного...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/124748/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_126024"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126024/"&gt;Настюша&lt;/a&gt;&lt;br&gt;Новосибирск, Железнодорожный&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 990-82-34&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126024/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_126024_5a1edf23ced40_r.PNG" alt="Проститутка Настюша (25 лет, Новосибирск)" title="8 965 990-82-34" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;25&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;165&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;61&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;4&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;5000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;30000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Страстная блондинка ждёт в гости или приедет сама к прекрасному...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/126024/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_125711"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125711/"&gt;Настя&lt;/a&gt;&lt;br&gt;Новосибирск, Железнодорожный&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 913 915-59-95&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125711/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_125711_5a1d973ee0b35_r.jpeg" alt="Проститутка Настя (23 лет, Новосибирск)" title="8 913 915-59-95" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;58&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;2500&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;5000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Жду жаркого знакомства с порядочным джентльменом для развратного время провождения. Самые волнительные переживания сведут тебя с ума, и ты ещё не раз захочешь побывать на свидании со...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/125711/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_126019"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126019/"&gt;Ирочка&lt;/a&gt;&lt;br&gt;Новосибирск, Советский &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 953 805-03-22&lt;sup class="girl_onduty"&gt;Работает&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126019/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_126019_5a1edc1de84c2_r.PNG" alt="Проститутка Ирочка (20 лет, Новосибирск)" title="8 953 805-03-22" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;20&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;167&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;52&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Ласковая кошечка ждёт или приедет в гости к котику ...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/126019/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_126022"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126022/"&gt;Катюшка Бердск&lt;/a&gt;&lt;br&gt;Новосибирск, Дзержинский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 953 805-03-22&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126022/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_126022_5a1eddd25b012_r.PNG" alt="Проститутка Катюшка Бердск (23 лет, Новосибирск)" title="8 953 805-03-22" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;167&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;53&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;12000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Черненькая стройняшка ждёт или приедет в гости к господину ...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/126022/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_125998"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125998/"&gt;Ира VIP 24&lt;/a&gt;&lt;br&gt;Новосибирск, Калининский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 913 915-59-95&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/125998/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_125998_5a1ece36e0d46_r.jpeg" alt="Проститутка Ира VIP 24 (25 лет, Новосибирск)" title="8 913 915-59-95" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;25&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;173&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;59&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;4000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;8000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Жду твоего звонка! Эротические ласки, сексуальные наслаждения, расслабляющий массаж! Звони, и мы договоримся о встрече прямо...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/125998/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_126025"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126025/"&gt;Подружки ;)&lt;/a&gt;&lt;br&gt;Новосибирск, Кировский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-09-38&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126025/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_126025_5a1ee044dd307_r.JPG" alt="Проститутка Подружки ;) (23 лет, Новосибирск)" title="8 965 822-09-38" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;165&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;53&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Шалунишки ждут или приедут в гости, чтобы творить разврат ...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/126025/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_126257"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126257/"&gt;Катя Приеду в Отель &lt;/a&gt;&lt;br&gt;Новосибирск, Центр&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 999 468-48-20&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/126257/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_126257_5a200899e9ee1_r.jpeg" alt="Проститутка Катя Приеду в Отель  (22 лет, Новосибирск)" title="8 999 468-48-20" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;22&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;58&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;2500&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Пускай ты требовательный и капризный мужчина. Для меня нет ничего не разрешимого. Любой каприз я выполню без всяких проблем. С удовольствием расслаблю и подарю тебе сладкие мгновения нашей...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/126257/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_127451"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127451/"&gt;Элла&lt;/a&gt;&lt;br&gt;Новосибирск, Советский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 952 928-88-26&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127451/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_127451_5a25575eb52a6_r.jpeg" alt="Проститутка Элла (23 лет, Новосибирск)" title="8 952 928-88-26" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;168&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;55&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;10000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Стройная и очаровательная девушка приглашает отведать незабываемые ощущения и красочный, яркий релакс досуг. Со мной Вы окажетесь словно в эротическом раю, где все твои мечты воплотятся в...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/127451/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_127483"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127483/"&gt;Наталья и Ира 24 часа&lt;/a&gt;&lt;br&gt;Новосибирск, Железнодорожный &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 999 468-48-20&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127483/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_127483_5a257b5041480_r.jpeg" alt="Проститутка Наталья и Ира 24 часа (29 лет, Новосибирск)" title="8 999 468-48-20" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;29&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;171&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;56&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Прекрасные нимфы, ненасытные кошечки и просто великолепные любовницы ожидают ваших звонков. Мы любим мужчин и мужчины это чувствуют… Ваши Наталья и Иры ))) Целуем...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/127483/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_127958"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127958/"&gt;Настена&lt;/a&gt;&lt;br&gt;Новосибирск, Заельцовский&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-12-05&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/127958/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_127958_5a27cb5c8b850_r.JPG" alt="Проститутка Настена (20 лет, Новосибирск)" title="8 965 822-12-05" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;20&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;56&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Хочешь страсти и безудержного секса или наоборот нежности и трепета, звони и приезжай. Я подарю тебе наслаждение...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/127958/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_128065"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128065/"&gt;Маша&lt;/a&gt;&lt;br&gt;Новосибирск, Железнодорожный&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 952 928-88-26&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128065/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_128065_5a282cde27adc_r.jpeg" alt="Проститутка Маша (23 лет, Новосибирск)" title="8 952 928-88-26" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;56&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;15000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Только лишь ты и я... Интимная атмосфера встречи у тебя или у меня в уютной обстановке возбуждает больше всего. Открою перед тобой все свои женские прелести, дам насладиться ими. У меня есть, что...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/128065/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_128067"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128067/"&gt;Кристина Настя Бердск&lt;/a&gt;&lt;br&gt;Новосибирск, Бердск&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-09-38&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128067/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_128067_5a282f59c6b48_r.jpeg" alt="Проститутка Кристина Настя Бердск (27 лет, Новосибирск)" title="8 965 822-09-38" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;27&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;170&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;54&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3500&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;7000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Сексуальные, красивые, юные кошечки пригласят в гости для прекрасного время препровождения!!! Фото 100% наши!!! Без ретуши!Возможен...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/128067/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_128289"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128289/"&gt;Настенька&lt;/a&gt;&lt;br&gt;Новосибирск, Октябрьский &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-12-05&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128289/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_128289_5a29131cabd2c_r.JPG" alt="Проститутка Настенька (23 лет, Новосибирск)" title="8 965 822-12-05" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;23&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;175&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;56&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3500&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;7000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;15000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Жду тебя милый к себе, или могу приехать к тебе!!! Проведем незабываемое...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/128289/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_128533"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128533/"&gt;Эзольда &lt;/a&gt;&lt;br&gt;Новосибирск, Гагаринская&lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 965 822-10-16&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128533/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_128533_5a29f8697f56f_r.jpeg" alt="Проститутка Эзольда  (27 лет, Новосибирск)" title="8 965 822-10-16" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;27&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;173&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;58&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;3&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;3000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;6000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;—&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			
+     Это мой настоящий цвет. Ценители настоящих брюнеток, добро пожаловать ко мне! Мой заводной темперамент придётся по душе тем, кто желает чистого секса, без всяких поблажек. Я беспощадная...			
+			&lt;br&gt;&lt;br&gt;
+			&lt;a href="https://sexonsk.online/prostitutka/128533/"&gt;ПОДРОБНЕЕ&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class="girl_info" id="profile_128599"&gt;
+	&lt;div class="girl-line"&gt;
+		&lt;div class="girl_name fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128599/"&gt;Инга Кировский&lt;/a&gt;&lt;br&gt;Новосибирск, Кировский &lt;/div&gt;
+		&lt;div class="icon_phone text-right fll"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/phone.png" alt="Тел." width="40" height="40"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl_phone fll"&gt;8 953 804-58-35&lt;sup class="girl_onduty_cm"&gt;Круглосуточно&lt;/sup&gt;			&lt;div class="girl_offduty visited" style="display:none;"&gt;просмотрено&lt;/div&gt; 
+			
+		&lt;/div&gt;
+		&lt;div class="clearfix clear"&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;div class="girl-photo fll"&gt;&lt;a href="https://sexonsk.online/prostitutka/128599/"&gt;&lt;div class="image"&gt;&lt;img src="./Девушки по вызову в Новосибирске_files/prostitutka_128599_5a2a433d6704d_r.jpeg" alt="Проститутка Инга Кировский (26 лет, Новосибирск)" title="8 953 804-58-35" width="140" height="210"&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="girl-desc params fll"&gt;
+			Возраст: &lt;span class="pink"&gt;26&lt;/span&gt;&lt;br&gt;
+			Рост: &lt;span class="pink"&gt;165&lt;/span&gt;&lt;br&gt;
+			Вес: &lt;span class="pink"&gt;59&lt;/span&gt;&lt;br&gt;
+			Грудь: &lt;span class="pink"&gt;2&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+			1 час: &lt;span class="pink"&gt;4000&lt;/span&gt;&lt;br&gt;2 часа: &lt;span class="pink"&gt;8000&lt;/span&gt;&lt;br&gt;Ночь: &lt;span class="pink"&gt;20000&lt;/span&gt;&lt;br&gt;Выезд: &lt;span class="pink"&gt;Есть
+			&lt;/span&gt;		&lt;/div&gt;
+		&lt;div class="girl-clear fll"&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;div class="girl-intro girl_discription fll"&gt;
+			
+			</value>
+  </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>40</value>
+  </metadata>
+</root>
